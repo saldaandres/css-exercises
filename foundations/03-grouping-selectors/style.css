@@ -1,0 +1,13 @@
+.first, .second {
+    font-size: 28px;
+    font-family:'Times New Roman', sans-serif;
+}
+
+.first {
+    background-color: hsl(0, 3%, 8%);
+    color: white
+}
+
+.second {
+    background-color: #c9c940;
+}
